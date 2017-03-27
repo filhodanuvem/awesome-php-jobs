@@ -16,12 +16,16 @@ A curated list of companies using php in production
 * [Leroy Merlin](http://leroymerlin.com.br) | São Paulo, Brazil 
 
 ## M - O
+* [MaxMilhas](http://www.maxmilhas.com.br) | Belo Horizonte, Brazil
+* [Méliuz](http://www.meliuz.com.br) | Belo Horizonte, Brazil
+* [Monetus](http://www.monetus.com.br) | Belo Horizonte, Brazil
 
 ## P - R
 * [Pagarme](http://pagar.me) | São Paulo, Brazil
 
 ## S - U
 * [Slack](https://slack.com/jobs) | San Francisco, CA 
+* [Sympla](http://www.sympla.com.br) | Belo Horizonte, Brazil
 * [Trivago](http://company.trivago.com/jobs) | Düsseldorf, Germany
 
 ## V - X
