@@ -26,6 +26,7 @@ A curated list of companies using php in production
 ## S - U
 * [Slack](https://slack.com/jobs) | San Francisco, CA 
 * [Sympla](http://www.sympla.com.br) | Belo Horizonte, Brazil
+* [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
 * [Trivago](http://company.trivago.com/jobs) | Düsseldorf, Germany
 
 ## V - X
