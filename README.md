@@ -9,6 +9,7 @@ A curated list of companies using php in production
 * [CargoX](http://www.cargox.com.br) |São Paulo, Brazil
 * [Catho](http://www.catho.com.br) | São Paulo, Brazil 
 * [Crediwire](https://crediwire.com) |Copenhagen, Denmark
+* [conta.MOBI](http://conta.mobi) | Belo Horizonte, Brazil
 
 ## D - F
 * [Dafiti](https://www.dafiti.com.br) | São Paulo, Brazil
