@@ -8,7 +8,9 @@ A curated list of companies using php in production
 
 ## D - F
 * [Dafiti](https://www.dafiti.com.br) | São Paulo, Brazil
-* [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil 
+* [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil
+* [Estadão](http://estadao.com.br) | São Paulo, Brazil
+* [FS](http://fs.com.br) | São Paulo, Brazil  
 
 ## G - I
 
