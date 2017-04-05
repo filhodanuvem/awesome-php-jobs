@@ -14,7 +14,9 @@ A curated list of companies using php in production
 ## D - F
 * [Dafiti](https://www.dafiti.com.br) | São Paulo, Brazil
 * [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil
+* [Estadão](http://estadao.com.br) | São Paulo, Brazil
 * [Evino](http://jobs.kenoby.com/evino) |São Paulo, Brazil 
+* [FS](http://fs.com.br) | São Paulo, Brazil  
 
 ## G - I
 * [Global Fashion Group](http://global-fashion-group.com/) | Many places
