@@ -4,16 +4,17 @@ A curated list of companies using php in production
 ---
 
 ## A - C
-* [Amaro](https://about.amaro.com/jobs) |São Paulo, Brazil
-* [Badoo](https://team.badoo.com/jobs/all-positions/) São Paulo, Brazil
-* [CargoX](http://www.cargox.com.br) |São Paulo, Brazil
+* [Amaro](https://about.amaro.com/jobs) | São Paulo, Brazil
+* [Badoo](https://team.badoo.com/jobs/all-positions/) | São Paulo, Brazil
+* [CargoX](http://www.cargox.com.br) | São Paulo, Brazil
 * [Catho](http://www.catho.com.br) | São Paulo, Brazil 
-* [Crediwire](https://crediwire.com) |Copenhagen, Denmark
+* [Crediwire](https://crediwire.com) | Copenhagen, Denmark
 
 ## D - F
 * [Dafiti](https://www.dafiti.com.br) | São Paulo, Brazil
 * [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil
-* [Evino](http://jobs.kenoby.com/evino) |São Paulo, Brazil 
+* [Evino](http://jobs.kenoby.com/evino) | São Paulo, Brazil
+* [Folha de São Paulo](http://www.folha.uol.com.br) São Paulo, Brazil
 
 ## G - I
 * [Global Fashion Group](http://global-fashion-group.com/) | Many places
@@ -25,7 +26,7 @@ A curated list of companies using php in production
 * [MaxMilhas](http://www.maxmilhas.com.br) | Belo Horizonte, Brazil
 * [Méliuz](http://www.meliuz.com.br) | Belo Horizonte, Brazil
 * [Monetus](http://www.monetus.com.br) | Belo Horizonte, Brazil
-* [Natue](htt://www.natue.com.br) | São Paulo
+* [Natue](htt://www.natue.com.br) | São Paulo, Brazil
 
 ## P - R
 * [Pagarme](http://pagar.me) | São Paulo, Brazil
