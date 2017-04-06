@@ -27,6 +27,7 @@ A curated list of companies using php in production
 * [Méliuz](http://www.meliuz.com.br) | Belo Horizonte, Brazil
 * [Monetus](http://www.monetus.com.br) | Belo Horizonte, Brazil
 * [Natue](htt://www.natue.com.br) | São Paulo, Brazil
+* [OLX](http://www.olx.com.br) | Rio de Janeiro, Brazil
 
 ## P - R
 * [Pagarme](http://pagar.me) | São Paulo, Brazil
