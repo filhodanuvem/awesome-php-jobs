@@ -10,12 +10,14 @@ A curated list of companies using php in production
 * [CargoX](http://www.cargox.com.br) | São Paulo, Brazil
 * [Catho](http://www.catho.com.br) | São Paulo, Brazil 
 * [Crediwire](https://crediwire.com) | Copenhagen, Denmark
+* [conta.MOBI](http://conta.mobi) | Belo Horizonte, Brazil
 
 ## D - F
 * [Dafiti](https://www.dafiti.com.br) | São Paulo, Brazil
 * [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil
-* [Evino](http://jobs.kenoby.com/evino) | São Paulo, Brazil
-* [Folha de São Paulo](http://www.folha.uol.com.br) São Paulo, Brazil
+* [Estadão](http://estadao.com.br) | São Paulo, Brazil
+* [Evino](http://jobs.kenoby.com/evino) | São Paulo, Brazil 
+* [FS](http://fs.com.br) | São Paulo, Brazil  
 
 ## G - I
 * [Global Fashion Group](http://global-fashion-group.com/) | Many places
