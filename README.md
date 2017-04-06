@@ -5,6 +5,7 @@ A curated list of companies using php in production
 
 ## A - C
 * [Amaro](https://about.amaro.com/jobs) | São Paulo, Brazil
+* [Automattic](https://automattic.com/work-with-us/) | São Paulo, Brazil
 * [Badoo](https://team.badoo.com/jobs/all-positions/) | São Paulo, Brazil
 * [CargoX](http://www.cargox.com.br) | São Paulo, Brazil
 * [Catho](http://www.catho.com.br) | São Paulo, Brazil 
