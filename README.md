@@ -8,6 +8,7 @@ A curated list of companies using php in production
 * [Badoo](https://team.badoo.com/jobs/all-positions/) São Paulo, Brazil
 * [CargoX](http://www.cargox.com.br) |São Paulo, Brazil
 * [Catho](http://www.catho.com.br) | São Paulo, Brazil 
+* [Circus](https://circus.ag/) | São Paulo, Brazil 
 * [Crediwire](https://crediwire.com) |Copenhagen, Denmark
 * [conta.MOBI](http://conta.mobi) | Belo Horizonte, Brazil
 
@@ -28,7 +29,7 @@ A curated list of companies using php in production
 * [MaxMilhas](http://www.maxmilhas.com.br) | Belo Horizonte, Brazil
 * [Méliuz](http://www.meliuz.com.br) | Belo Horizonte, Brazil
 * [Monetus](http://www.monetus.com.br) | Belo Horizonte, Brazil
-* [Natue](htt://www.natue.com.br) | São Paulo
+* [Natue](https://www.natue.com.br/) | São Paulo
 
 ## P - R
 * [Pagarme](http://pagar.me) | São Paulo, Brazil
