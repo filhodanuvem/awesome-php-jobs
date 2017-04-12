@@ -10,6 +10,7 @@ A curated list of companies using php in production
 * [Badoo](https://team.badoo.com/jobs/all-positions/) | São Paulo, Brazil
 * [CargoX](http://www.cargox.com.br) | São Paulo, Brazil
 * [Catho](http://www.catho.com.br) | São Paulo, Brazil 
+* [CloudFlare](https://www.cloudflare.com/careers/) | San Franfisco, CA
 * [Crediwire](https://crediwire.com) | Copenhagen, Denmark
 * [conta.MOBI](http://conta.mobi) | Belo Horizonte, Brazil
 
