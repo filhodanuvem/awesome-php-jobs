@@ -10,6 +10,7 @@ A curated list of companies using php in production
 * [Badoo](https://team.badoo.com/jobs/all-positions/) | São Paulo, Brazil
 * [CargoX](http://www.cargox.com.br) | São Paulo, Brazil
 * [Catho](http://www.catho.com.br) | São Paulo, Brazil 
+* [CloudFlare](https://www.cloudflare.com/careers/) | San Francisco, CA
 * [Crediwire](https://crediwire.com) | Copenhagen, Denmark
 * [conta.MOBI](http://conta.mobi) | Belo Horizonte, Brazil
 
@@ -17,6 +18,7 @@ A curated list of companies using php in production
 * [Dafiti](https://www.dafiti.com.br) | São Paulo, Brazil
 * [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil
 * [Estadão](http://estadao.com.br) | São Paulo, Brazil
+* [Etsy](https://www.etsy.com/careers), HQ in New York, additional offices in Europe, Asia, Oceania and North America
 * [Evino](http://jobs.kenoby.com/evino) | São Paulo, Brazil 
 * [FS](http://fs.com.br) | São Paulo, Brazil  
 
