@@ -18,7 +18,7 @@ A curated list of companies using php in production
 * [Dafiti](https://www.dafiti.com.br) | São Paulo, Brazil
 * [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil
 * [Estadão](http://estadao.com.br) | São Paulo, Brazil
-* [Etsy](https://www.etsy.com/careers), HQ in New York, additional offices in Europe, Asia, Oceania and North America
+* [Etsy](https://www.etsy.com/careers)| HQ in New York, additional offices in Europe, Asia, Oceania and North America
 * [Evino](http://jobs.kenoby.com/evino) | São Paulo, Brazil 
 * [FS](http://fs.com.br) | São Paulo, Brazil  
 
@@ -38,6 +38,7 @@ A curated list of companies using php in production
 
 ## P - R
 * [Pagarme](http://pagar.me) | São Paulo, Brazil
+* [Rakuten](www.rakuten.de) | Bamberg, Germany
 
 ## S - U
 * [Slack](https://slack.com/jobs) | San Francisco, CA 
