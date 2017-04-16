@@ -38,7 +38,7 @@ A curated list of companies using php in production
 
 ## P - R
 * [Pagarme](http://pagar.me) | São Paulo, Brazil
-* [Rakuten](www.rakuten.de) | Bamberg, Germany
+* [Rakuten](http://www.rakuten.de) | Bamberg, Germany
 
 ## S - U
 * [Slack](https://slack.com/jobs) | San Francisco, CA 
