@@ -47,7 +47,7 @@ A curated list of companies using php in production
 * [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
 * [The Iconic](http://www.theiconic.com.au/opportunities/) | Sydney, Australia
 * [Trivago](http://company.trivago.com/jobs) | Düsseldorf, Germany
-* [Urbarnara](https://careers.jobscore.com/careers/urbanara) | Berlin, Germany
+* [Urbanara](https://careers.jobscore.com/careers/urbanara) | Berlin, Germany
 
 ## V - X
 
