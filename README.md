@@ -24,7 +24,8 @@ A curated list of companies using php in production
 
 ## G - I
 * [Global Fashion Group](http://global-fashion-group.com/) | Many places
-* [Hotel Urbano](www.hotelurbano.com) |Rio de Janeiro, Brazil
+* [Home Refill](www.homerefill.com.br) | São Paulo, Brazil
+* [Hotel Urbano](www.hotelurbano.com) | Rio de Janeiro, Brazil
 
 ## J - L
 * [Leroy Merlin](http://leroymerlin.com.br) | São Paulo, Brazil 
