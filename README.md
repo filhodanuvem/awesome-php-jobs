@@ -18,13 +18,14 @@ A curated list of companies using php in production
 * [Dafiti](https://www.dafiti.com.br) | São Paulo, Brazil
 * [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil
 * [Estadão](http://estadao.com.br) | São Paulo, Brazil
-* [Etsy](https://www.etsy.com/careers), HQ in New York, additional offices in Europe, Asia, Oceania and North America
+* [Etsy](https://www.etsy.com/careers)| HQ in New York, additional offices in Europe, Asia, Oceania and North America
 * [Evino](http://jobs.kenoby.com/evino) | São Paulo, Brazil 
 * [FS](http://fs.com.br) | São Paulo, Brazil  
 
 ## G - I
 * [Global Fashion Group](http://global-fashion-group.com/) | Many places
-* [Hotel Urbano](www.hotelurbano.com) |Rio de Janeiro, Brazil
+* [Home Refill](www.homerefill.com.br) | São Paulo, Brazil
+* [Hotel Urbano](www.hotelurbano.com) | Rio de Janeiro, Brazil
 
 ## J - L
 * [Leroy Merlin](http://leroymerlin.com.br) | São Paulo, Brazil 
@@ -38,6 +39,7 @@ A curated list of companies using php in production
 
 ## P - R
 * [Pagarme](http://pagar.me) | São Paulo, Brazil
+* [Rakuten](http://global.rakuten.com/en/) | Bamberg, Germany and Tokyo, Japan
 
 ## S - U
 * [Slack](https://slack.com/jobs) | San Francisco, CA 
@@ -45,6 +47,7 @@ A curated list of companies using php in production
 * [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
 * [The Iconic](http://www.theiconic.com.au/opportunities/) | Sydney, Australia
 * [Trivago](http://company.trivago.com/jobs) | Düsseldorf, Germany
+* [Urbanara](https://careers.jobscore.com/careers/urbanara) | Berlin, Germany
 
 ## V - X
 
