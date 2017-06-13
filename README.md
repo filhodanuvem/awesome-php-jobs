@@ -33,6 +33,7 @@ A curated list of companies using php in production
 ## M - O
 * [MaxMilhas](http://www.maxmilhas.com.br) | Belo Horizonte, Brazil
 * [Méliuz](http://www.meliuz.com.br) | Belo Horizonte, Brazil
+* [MeuApt](https://www.meuapt.com.br) | São Paulo, Brazil
 * [Monetus](http://www.monetus.com.br) | Belo Horizonte, Brazil
 * [Natue](htt://www.natue.com.br) | São Paulo, Brazil
 * [OLX](http://www.olx.com.br) | Rio de Janeiro, Brazil
