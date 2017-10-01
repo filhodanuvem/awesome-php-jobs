@@ -43,6 +43,7 @@ A curated list of companies using php in production
 * [Rakuten](http://global.rakuten.com/en/) | Bamberg, Germany and Tokyo, Japan
 
 ## S - U
+* [Scribbr](https://scribbr.homerun.co/) | Amsterdam, The Netherlands
 * [Slack](https://slack.com/jobs) | San Francisco, CA 
 * [Sympla](http://www.sympla.com.br) | Belo Horizonte, Brazil
 * [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
