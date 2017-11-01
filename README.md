@@ -28,7 +28,8 @@ A curated list of companies using php in production
 * [Hotel Urbano](www.hotelurbano.com) | Rio de Janeiro, Brazil
 
 ## J - L
-* [Leroy Merlin](http://leroymerlin.com.br) | São Paulo, Brazil 
+* [Leroy Merlin](http://leroymerlin.com.br) | São Paulo, Brazil
+* [Linio](http://linio.applytojob.com/apply) | Mexico City, Mexico
 
 ## M - O
 * [MaxMilhas](http://www.maxmilhas.com.br) | Belo Horizonte, Brazil
