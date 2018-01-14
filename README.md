@@ -5,12 +5,15 @@ A curated list of companies using php in production
 
 ## A - C
 * [Amaro](https://about.amaro.com/jobs) | São Paulo, Brazil
+* [About you](https://corporate.aboutyou.de/de/jobs) | Hamburg, Germany
 * [Arizona](http://arizona.global) |São Paulo, Brazil
 * [Automattic](https://automattic.com/work-with-us/) | Remote, everywhere
 * [Badoo](https://team.badoo.com/jobs/all-positions/) | São Paulo, Brazil
 * [CargoX](http://www.cargox.com.br) | São Paulo, Brazil
 * [Catho](http://www.catho.com.br) | São Paulo, Brazil 
+* [Check24](http://www.check24.de) | Leipzig, Germany
 * [CloudFlare](https://www.cloudflare.com/careers/) | San Francisco, CA
+* [Cool blue](https://www.careersatcoolblue.com/) | Rotterdam, The Netherlands
 * [Crediwire](https://crediwire.com) | Copenhagen, Denmark
 * [conta.MOBI](http://conta.mobi) | Belo Horizonte, Brazil
 
@@ -53,6 +56,6 @@ A curated list of companies using php in production
 * [Urbanara](https://careers.jobscore.com/careers/urbanara) | Berlin, Germany
 
 ## V - X
-
+* [Wappa](https://br.linkedin.com/company/wappa-taxi/careers) | São Paulo, Brazil 
 ## Y - \#
 * [Zalando](https://jobs.zalando.com) | Berlin, Germany
