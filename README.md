@@ -57,5 +57,7 @@ A curated list of companies using php in production
 
 ## V - X
 * [Wappa](https://br.linkedin.com/company/wappa-taxi/careers) | São Paulo, Brazil 
+* [Werkspot](https://www.careersatwerkspot.com/) | Amsterdam, The Netherlands
+
 ## Y - \#
 * [Zalando](https://jobs.zalando.com) | Berlin, Germany
