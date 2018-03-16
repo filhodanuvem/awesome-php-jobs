@@ -64,7 +64,6 @@ A curated list of companies using php in production
 * [Travanto](https://www.travanto.de/unternehmen/jobs) | Hamburg, Germany
 * [Trivago](http://company.trivago.com/jobs) | Düsseldorf, Germany
 * [Urbanara](https://careers.jobscore.com/careers/urbanara) | Berlin, Germany
-* [SpeakAp](https://speakap.com/en/speakap_jobs/) | Amsterdam, The Netherlands
 
 ## V - X
 * [Virtual Gym](https://virtuagym.com/software/en/jobs/) | Amsterdam, The Netherlands
