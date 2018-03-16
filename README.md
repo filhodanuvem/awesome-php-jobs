@@ -19,11 +19,16 @@ A curated list of companies using php in production
 
 ## D - F
 * [Dafiti](https://www.dafiti.com.br) | São Paulo, Brazil
+* [Docler Holding](https://doclerholding.recruitee.com/) |Luxembourg, Luxembourg
+* [Emesa](https://www.werkenbijemesa.nl/) |  Amsterdam, The Netherlands
 * [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil
 * [Estadão](http://estadao.com.br) | São Paulo, Brazil
 * [Etsy](https://www.etsy.com/careers)| HQ in New York, additional offices in Europe, Asia, Oceania and North America
 * [Evino](http://jobs.kenoby.com/evino) | São Paulo, Brazil 
-* [FS](http://fs.com.br) | São Paulo, Brazil  
+* [Flixbus](https://www.flixbus.com/company/jobs) | Berlin, Germany  
+* [FS](http://fs.com.br) | São Paulo, Brazil
+* [GetYourGuide](https://careers.getyourguide.com/) | Berlin, Germany
+* [Helloprint](http://jobs.helloprint.com) | Rotterdam, The Netherlands
 
 ## G - I
 * [Global Fashion Group](http://global-fashion-group.com/) | Many places
@@ -31,13 +36,16 @@ A curated list of companies using php in production
 * [Hotel Urbano](www.hotelurbano.com) | Rio de Janeiro, Brazil
 
 ## J - L
+* [Lesara](https://corporate.lesara.com/career) | Berlin, Germany
 * [Leroy Merlin](http://leroymerlin.com.br) | São Paulo, Brazil
 * [Linio](http://linio.applytojob.com/apply) | Mexico City, Mexico
 
 ## M - O
 * [MaxMilhas](http://www.maxmilhas.com.br) | Belo Horizonte, Brazil
 * [Méliuz](http://www.meliuz.com.br) | Belo Horizonte, Brazil
+* [MessageBird](https://www.messagebird.com/en/careers) | Amsterdam, The Netherlands
 * [MeuApt](https://www.meuapt.com.br) | São Paulo, Brazil
+* [Mobly](http://www.mobly.com.br/) | São Paulo, Brazil
 * [Monetus](http://www.monetus.com.br) | Belo Horizonte, Brazil
 * [Natue](http://www.natue.com.br) | São Paulo, Brazil
 * [OLX](http://www.olx.com.br) | Rio de Janeiro, Brazil; Lisbon, Portugal 
@@ -49,13 +57,17 @@ A curated list of companies using php in production
 ## S - U
 * [Scribbr](https://scribbr.homerun.co/) | Amsterdam, The Netherlands
 * [Slack](https://slack.com/jobs) | San Francisco, CA 
+* [SpeakAp](https://speakap.com/en/speakap_jobs/) | Amsterdam, The Netherlands
 * [Sympla](http://www.sympla.com.br) | Belo Horizonte, Brazil
 * [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
 * [The Iconic](http://www.theiconic.com.au/opportunities/) | Sydney, Australia
+* [Travanto](https://www.travanto.de/unternehmen/jobs) | Hamburg, Germany
 * [Trivago](http://company.trivago.com/jobs) | Düsseldorf, Germany
 * [Urbanara](https://careers.jobscore.com/careers/urbanara) | Berlin, Germany
+* [SpeakAp](https://speakap.com/en/speakap_jobs/) | Amsterdam, The Netherlands
 
 ## V - X
+* [Virtual Gym](https://virtuagym.com/software/en/jobs/) | Amsterdam, The Netherlands
 * [Wappa](https://br.linkedin.com/company/wappa-taxi/careers) | São Paulo, Brazil 
 * [Werkspot](https://www.careersatwerkspot.com/) | Amsterdam, The Netherlands
 
