@@ -9,6 +9,7 @@ A curated list of companies using php in production
 * [Arizona](http://arizona.global) |São Paulo, Brazil
 * [Automattic](https://automattic.com/work-with-us/) | Remote, everywhere
 * [Badoo](https://team.badoo.com/jobs/all-positions/) | São Paulo, Brazil
+* [Canva](https://about.canva.com/careers/) | Sydney, Australia
 * [CargoX](http://www.cargox.com.br) | São Paulo, Brazil
 * [Catho](http://www.catho.com.br) | São Paulo, Brazil 
 * [Check24](http://www.check24.de) | Leipzig, Germany
@@ -36,6 +37,7 @@ A curated list of companies using php in production
 * [Hotel Urbano](www.hotelurbano.com) | Rio de Janeiro, Brazil
 
 ## J - L
+* [LeaseWeb](https://www.leaseweb.com/career) | Amsterdam, The Netherlands
 * [Lesara](https://corporate.lesara.com/career) | Berlin, Germany
 * [Leroy Merlin](http://leroymerlin.com.br) | São Paulo, Brazil
 * [Linio](http://linio.applytojob.com/apply) | Mexico City, Mexico
