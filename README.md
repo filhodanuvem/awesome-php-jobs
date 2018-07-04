@@ -26,6 +26,7 @@ A curated list of companies using php in production
 * [Etsy](https://www.etsy.com/careers)| HQ in New York, additional offices in Europe, Asia, Oceania and North America
 * [Evino](http://jobs.kenoby.com/evino) | São Paulo, Brazil 
 * [Flixbus](https://www.flixbus.com/company/jobs) | Berlin, Germany  
+* [Fretebras](https://www.fretebras.com.br) | Catalão, Brazil  
 * [FS](http://fs.com.br) | São Paulo, Brazil
 * [GetYourGuide](https://careers.getyourguide.com/) | Berlin, Germany
 * [Helloprint](http://jobs.helloprint.com) | Rotterdam, The Netherlands
