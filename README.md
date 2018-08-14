@@ -20,6 +20,7 @@ A curated list of companies using php in production
 
 ## D - F
 * [Dafiti](https://www.dafiti.com.br) | São Paulo, Brazil
+* [DataDog](https://www.datadoghq.com/) | New York, USA; Paris, France; Dublin, Ireland; Remote
 * [Docler Holding](https://doclerholding.recruitee.com/) |Luxembourg, Luxembourg
 * [Emesa](https://www.werkenbijemesa.nl/) |  Amsterdam, The Netherlands
 * [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil
@@ -67,12 +68,14 @@ A curated list of companies using php in production
 * [The Iconic](http://www.theiconic.com.au/opportunities/) | Sydney, Australia
 * [Travanto](https://www.travanto.de/unternehmen/jobs) | Hamburg, Germany
 * [Trivago](http://company.trivago.com/jobs) | Düsseldorf, Germany
+* [Usabillla](https://jobs.usabilla.com/) | Amsterdam, The Netherlands
 * [Urbanara](https://careers.jobscore.com/careers/urbanara) | Berlin, Germany
 
 ## V - X
 * [Virtual Gym](https://virtuagym.com/software/en/jobs/) | Amsterdam, The Netherlands
+* [Vonq](https://www.vonq.com/) | Amsterdam/Rotterdam, The Netherlands; Düsseldorf, Germany 
 * [Wappa](https://br.linkedin.com/company/wappa-taxi/careers) | São Paulo, Brazil 
-* [Werkspot](https://www.careersatwerkspot.com/) | Amsterdam, The Netherlands
+* [Werkspot](https://www.careersatwerkspot.com/) | Amsterdam The Netherlands
 
 ## Y - \#
 * [Zalando](https://jobs.zalando.com) | Berlin, Germany
