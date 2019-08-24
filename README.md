@@ -24,6 +24,7 @@ A curated list of companies using php in production
 * [Docler Holding](https://doclerholding.recruitee.com/) |Luxembourg, Luxembourg
 * [Emesa](https://www.werkenbijemesa.nl/) |  Amsterdam, The Netherlands
 * [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil
+* [EBANX](http://ebanx.com) | Curitiba, Brazil
 * [Estadão](http://estadao.com.br) | São Paulo, Brazil
 * [Endouble](http://endouble.com) | Amsterdam, Netherlands
 * [Etsy](https://www.etsy.com/careers)| HQ in New York, additional offices in Europe, Asia, Oceania and North America
