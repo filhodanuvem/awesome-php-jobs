@@ -64,6 +64,7 @@ A curated list of companies using php in production
 * [Scribbr](https://scribbr.homerun.co/) | Amsterdam, The Netherlands
 * [Slack](https://slack.com/jobs) | San Francisco, CA 
 * [SpeakAp](https://speakap.com/en/speakap_jobs/) | Amsterdam, The Netherlands
+* [Studydrive](https://www.studydrive.net/company/studydrive-gmbh) | Berlin, Germany
 * [Sympla](http://www.sympla.com.br) | Belo Horizonte, Brazil
 * [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
 * [The Iconic](http://www.theiconic.com.au/opportunities/) | Sydney, Australia
