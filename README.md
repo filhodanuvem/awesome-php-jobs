@@ -58,6 +58,7 @@ A curated list of companies using php in production
 
 ## P - R
 * [Pagarme](http://pagar.me) | São Paulo, Brazil
+* [PicPay](https://www.picpay.com) | Vitória, Brazil; São Paulo, Brazil
 * [Rakuten](http://global.rakuten.com/en/) | Bamberg, Germany and Tokyo, Japan
 
 ## S - U
