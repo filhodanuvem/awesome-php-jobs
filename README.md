@@ -28,7 +28,8 @@ A curated list of companies using php in production
 * [Estadão](http://estadao.com.br) | São Paulo, Brazil
 * [Endouble](http://endouble.com) | Amsterdam, Netherlands
 * [Etsy](https://www.etsy.com/careers)| HQ in New York, additional offices in Europe, Asia, Oceania and North America
-* [Evino](http://jobs.kenoby.com/evino) | São Paulo, Brazil 
+* [Evino](http://jobs.kenoby.com/evino) | São Paulo, Brazil
+* [E-goi](https://mkt.e-goi.com/w/1HQe1pze1ebLP5NHgXVcKed126cf0fe!uid?_ga=2.36155296.1440273502.1582720155-481127290.1576235316&egu=wplsy95keu4g0bvg) | Londrina, Brazil
 * [Flixbus](https://www.flixbus.com/company/jobs) | Berlin, Germany  
 * [Fretebras](https://www.fretebras.com.br) | Catalão, Brazil  
 * [FS](http://fs.com.br) | São Paulo, Brazil
