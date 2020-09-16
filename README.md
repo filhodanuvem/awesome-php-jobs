@@ -9,6 +9,7 @@ A curated list of companies using php in production
 * [Arizona](http://arizona.global) |São Paulo, Brazil
 * [Automattic](https://automattic.com/work-with-us/) | Remote, everywhere
 * [Badoo](https://team.badoo.com/jobs/all-positions/) | São Paulo, Brazil
+* [BoaCompra](https://boacompra.com/) | Maringá, Brazil
 * [Canva](https://about.canva.com/careers/) | Sydney, Australia
 * [CargoX](http://www.cargox.com.br) | São Paulo, Brazil
 * [Catho](http://www.catho.com.br) | São Paulo, Brazil 
@@ -21,6 +22,7 @@ A curated list of companies using php in production
 ## D - F
 * [Dafiti](https://www.dafiti.com.br) | São Paulo, Brazil
 * [DataDog](https://www.datadoghq.com/) | New York, USA; Paris, France; Dublin, Ireland; Remote
+* [DB1](https://www.db1.com.br/) | Maringá, Brazil
 * [Docler Holding](https://doclerholding.recruitee.com/) |Luxembourg, Luxembourg
 * [Emesa](https://www.werkenbijemesa.nl/) |  Amsterdam, The Netherlands
 * [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil
