@@ -64,6 +64,7 @@ A curated list of companies using php in production
 - [Monetus](http://www.monetus.com.br) | Belo Horizonte, Brazil
 - [Natue](http://www.natue.com.br) | São Paulo, Brazil
 - [OLX](http://www.olx.com.br) | Rio de Janeiro, Brazil; Lisbon, Portugal
+- [Ow Interactive](http://www.owinteractive.com/vagas/) | Ribeirão Preto, Brazil
 
 ## P - R
 
