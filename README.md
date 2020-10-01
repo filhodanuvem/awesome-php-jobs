@@ -60,6 +60,7 @@ A curated list of companies using php in production
 * [Monetus](http://www.monetus.com.br) | Belo Horizonte, Brazil
 * [Natue](http://www.natue.com.br) | São Paulo, Brazil
 * [OLX](http://www.olx.com.br) | Rio de Janeiro, Brazil; Lisbon, Portugal 
+* [Ow Interactive](http://www.owinteractive.com/vagas/) | Ribeirão Preto, Brazil
 
 ## P - R
 * [Pagarme](http://pagar.me) | São Paulo, Brazil
@@ -81,6 +82,7 @@ A curated list of companies using php in production
 * [Urbanara](https://careers.jobscore.com/careers/urbanara) | Berlin, Germany
 
 ## V - X
+* [Venda.la](https://vendala.com.br/) | Ribeirão Preto, Brazil
 * [Virtual Gym](https://virtuagym.com/software/en/jobs/) | Amsterdam, The Netherlands
 * [Vonq](https://www.vonq.com/) | Amsterdam/Rotterdam, The Netherlands; Düsseldorf, Germany 
 * [Wappa](https://br.linkedin.com/company/wappa-taxi/careers) | São Paulo, Brazil 
