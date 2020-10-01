@@ -67,6 +67,7 @@ A curated list of companies using php in production
 ## S - U
 * [Scribbr](https://scribbr.homerun.co/) | Amsterdam, The Netherlands
 * [Slack](https://slack.com/jobs) | San Francisco, CA 
+* [Solis](https://www.solis.com.br/) | Lajeado, Brazil
 * [SpeakAp](https://speakap.com/en/speakap_jobs/) | Amsterdam, The Netherlands
 * [Studydrive](https://www.studydrive.net/company/studydrive-gmbh) | Berlin, Germany
 * [Sympla](http://www.sympla.com.br) | Belo Horizonte, Brazil
