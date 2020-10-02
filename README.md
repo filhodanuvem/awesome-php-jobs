@@ -7,6 +7,7 @@ A curated list of companies using php in production
 * [Amaro](https://about.amaro.com/jobs) | São Paulo, Brazil
 * [About you](https://corporate.aboutyou.de/de/jobs) | Hamburg, Germany
 * [aiqfome](https://aiqfome.com) | Maringá, Brazil
+* [Altran](https://www.altran.com/pt/pt-pt/carreiras/) | Many places (Americas, Europe and Asia)
 * [Arizona](http://arizona.global) | São Paulo, Brazil
 * [Automattic](https://automattic.com/work-with-us/) | Remote, everywhere
 * [Badoo](https://team.badoo.com/jobs/all-positions/) | São Paulo, Brazil
@@ -75,6 +76,7 @@ A curated list of companies using php in production
 * [Studydrive](https://www.studydrive.net/company/studydrive-gmbh) | Berlin, Germany
 * [Sympla](http://www.sympla.com.br) | Belo Horizonte, Brazil
 * [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
+* [Tequila Rapido](https://www.welcometothejungle.com/fr/companies/tequilarapido/jobs) | Nice, France
 * [The Iconic](http://www.theiconic.com.au/opportunities/) | Sydney, Australia
 * [Travanto](https://www.travanto.de/unternehmen/jobs) | Hamburg, Germany
 * [Trivago](http://company.trivago.com/jobs) | Düsseldorf, Germany
@@ -90,3 +92,4 @@ A curated list of companies using php in production
 
 ## Y - \#
 * [Zalando](https://jobs.zalando.com) | Berlin, Germany
+* [Zizoo](https://www.zizoo.com/en/careers) | Berlin, Germany
