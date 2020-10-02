@@ -7,16 +7,18 @@ A curated list of companies using php in production
 * [Amaro](https://about.amaro.com/jobs) | São Paulo, Brazil
 * [About you](https://corporate.aboutyou.de/de/jobs) | Hamburg, Germany
 * [aiqfome](https://aiqfome.com) | Maringá, Brazil
-* [Altran](https://www.altran.com/pt/pt-pt/carreiras/) | Many places (Americas, Europe and Asia)
+* [Altran](https://www.altran.com/pt/pt-pt) | Lisboa, Portugal
 * [Arizona](http://arizona.global) | São Paulo, Brazil
 * [Automattic](https://automattic.com/work-with-us/) | Remote, everywhere
 * [Badoo](https://team.badoo.com/jobs/all-positions/) | São Paulo, Brazil
 * [BoaCompra](https://boacompra.com/) | Maringá, Brazil
+* [Bold](https://boldint.com/en) | Lisboa, Portugal
 * [Canva](https://about.canva.com/careers/) | Sydney, Australia
 * [CargoX](http://www.cargox.com.br) | São Paulo, Brazil
 * [Catho](http://www.catho.com.br) | São Paulo, Brazil 
 * [Check24](http://www.check24.de) | Leipzig, Germany
 * [Chron](https://www.chron.com/) | California, USA
+* [CI&T](https://www.ciandt.com/) | HQ in Campinas, additional offices in Brazil, USA, Canada, China, Japan and UK.
 * [CloudFlare](https://www.cloudflare.com/careers/) | San Francisco, CA
 * [Cool blue](https://www.careersatcoolblue.com/) | Rotterdam, The Netherlands
 * [Crediwire](https://crediwire.com) | Copenhagen, Denmark
@@ -66,11 +68,13 @@ A curated list of companies using php in production
 ## P - R
 * [Pagarme](http://pagar.me) | São Paulo, Brazil
 * [PicPay](https://www.picpay.com) | Vitória, Brazil; São Paulo, Brazil
+* [PrimeIt](https://www.primeit.pt/) | Lisboa, Portugal
 * [Rakuten](http://global.rakuten.com/en/) | Bamberg, Germany and Tokyo, Japan
 
 ## S - U
 * [Scribbr](https://scribbr.homerun.co/) | Amsterdam, The Netherlands
 * [Slack](https://slack.com/jobs) | San Francisco, CA 
+* [SmartConsulting](http://www.smartconsulting.pt/) | Lisboa, Portugal
 * [Solis](https://www.solis.com.br/) | Lajeado, Brazil
 * [SpeakAp](https://speakap.com/en/speakap_jobs/) | Amsterdam, The Netherlands
 * [Studydrive](https://www.studydrive.net/company/studydrive-gmbh) | Berlin, Germany
