@@ -79,8 +79,8 @@ A curated list of companies using php in production
 * [SpeakAp](https://speakap.com/en/speakap_jobs/) | Amsterdam, The Netherlands
 * [Studydrive](https://www.studydrive.net/company/studydrive-gmbh) | Berlin, Germany
 * [Sympla](http://www.sympla.com.br) | Belo Horizonte, Brazil
-* [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
 * [Tequila Rapido](https://www.welcometothejungle.com/fr/companies/tequilarapido/jobs) | Nice, France
+* [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
 * [The Iconic](http://www.theiconic.com.au/opportunities/) | Sydney, Australia
 * [Travanto](https://www.travanto.de/unternehmen/jobs) | Hamburg, Germany
 * [Trivago](http://company.trivago.com/jobs) | Düsseldorf, Germany
