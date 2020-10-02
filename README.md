@@ -16,6 +16,7 @@ A curated list of companies using php in production
 * [Catho](http://www.catho.com.br) | São Paulo, Brazil 
 * [Check24](http://www.check24.de) | Leipzig, Germany
 * [Chron](https://www.chron.com/) | California, USA
+* [CI&T](https://www.ciandt.com/) | HQ in Campinas, additional offices in Brazil, USA, Canada, China, Japan and UK.
 * [CloudFlare](https://www.cloudflare.com/careers/) | San Francisco, CA
 * [Cool blue](https://www.careersatcoolblue.com/) | Rotterdam, The Netherlands
 * [Crediwire](https://crediwire.com) | Copenhagen, Denmark
