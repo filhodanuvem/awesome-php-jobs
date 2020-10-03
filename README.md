@@ -4,10 +4,10 @@ A curated list of companies using php in production
 ---
 
 ## A - C
-* [Amaro](https://about.amaro.com/jobs) | São Paulo, Brazil
 * [About you](https://corporate.aboutyou.de/de/jobs) | Hamburg, Germany
-* [aiqfome](https://aiqfome.com) | Maringá, Brazil
+* [Aiqfome](https://aiqfome.com) | Maringá, Brazil
 * [Altran](https://www.altran.com/pt/pt-pt) | Lisboa, Portugal
+* [Amaro](https://about.amaro.com/jobs) | São Paulo, Brazil
 * [Arizona](http://arizona.global) | São Paulo, Brazil
 * [Automattic](https://automattic.com/work-with-us/) | Remote, everywhere
 * [Badoo](https://team.badoo.com/jobs/all-positions/) | São Paulo, Brazil
@@ -20,49 +20,49 @@ A curated list of companies using php in production
 * [Chron](https://www.chron.com/) | California, USA
 * [CI&T](https://www.ciandt.com/) | HQ in Campinas, additional offices in Brazil, USA, Canada, China, Japan and UK.
 * [CloudFlare](https://www.cloudflare.com/careers/) | San Francisco, CA
+* [conta.MOBI](http://conta.mobi) | Belo Horizonte, Brazil
 * [Cool blue](https://www.careersatcoolblue.com/) | Rotterdam, The Netherlands
 * [Crediwire](https://crediwire.com) | Copenhagen, Denmark
-* [conta.MOBI](http://conta.mobi) | Belo Horizonte, Brazil
 
 ## D - F
 * [Dafiti](https://www.dafiti.com.br) | São Paulo, Brazil
 * [DataDog](https://www.datadoghq.com/) | New York, USA; Paris, France; Dublin, Ireland; Remote
 * [DB1](https://www.db1.com.br/) | Maringá, Brazil
 * [Docler Holding](https://doclerholding.recruitee.com/) |Luxembourg, Luxembourg
-* [Emesa](https://www.werkenbijemesa.nl/) |  Amsterdam, The Netherlands
+* [E-goi](https://mkt.e-goi.com/) | Londrina, Brazil
 * [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil
 * [EBANX](http://ebanx.com) | Curitiba, Brazil
-* [Estadão](http://estadao.com.br) | São Paulo, Brazil
+* [Emesa](https://www.werkenbijemesa.nl/) |  Amsterdam, The Netherlands
 * [Endouble](http://endouble.com) | Amsterdam, Netherlands
+* [Estadão](http://estadao.com.br) | São Paulo, Brazil
 * [Etsy](https://www.etsy.com/careers)| HQ in New York, additional offices in Europe, Asia, Oceania and North America
 * [Evino](http://jobs.kenoby.com/evino) | São Paulo, Brazil
-* [E-goi](https://mkt.e-goi.com/w/1HQe1pze1ebLP5NHgXVcKed126cf0fe!uid?_ga=2.36155296.1440273502.1582720155-481127290.1576235316&egu=wplsy95keu4g0bvg) | Londrina, Brazil
 * [Flixbus](https://www.flixbus.com/company/jobs) | Berlin, Germany  
 * [Fretebras](https://www.fretebras.com.br) | Catalão, Brazil  
 * [FS](http://fs.com.br) | São Paulo, Brazil
 * [Funcional Health Tech](https://www.funcionalcorp.com.br/) | Rio de Janeiro, Brazil
-* [GetYourGuide](https://careers.getyourguide.com/) | Berlin, Germany
-* [Helloprint](http://jobs.helloprint.com) | Rotterdam, The Netherlands
 
 ## G - I
+* [GetYourGuide](https://careers.getyourguide.com/) | Berlin, Germany
 * [Global Fashion Group](http://global-fashion-group.com/) | Many places
+* [Helloprint](http://jobs.helloprint.com) | Rotterdam, The Netherlands
 * [Home Refill](www.homerefill.com.br) | São Paulo, Brazil
 * [Hotel Urbano](www.hotelurbano.com) | Rio de Janeiro, Brazil
 
 ## J - L
 * [LeaseWeb](https://www.leaseweb.com/career) | Amsterdam, The Netherlands
-* [Lesara](https://corporate.lesara.com/career) | Berlin, Germany
 * [Leroy Merlin](http://leroymerlin.com.br) | São Paulo, Brazil
+* [Lesara](https://corporate.lesara.com/career) | Berlin, Germany
 * [Linio](http://linio.applytojob.com/apply) | Mexico City, Mexico
 * [Lyseon Tech](https://lt.coop.br) | Rio de Janeiro, Brazil
 
 ## M - O
 * [MaxMilhas](http://www.maxmilhas.com.br) | Belo Horizonte, Brazil
-* [Méliuz](http://www.meliuz.com.br) | Belo Horizonte, Brazil
 * [MessageBird](https://www.messagebird.com/en/careers) | Amsterdam, The Netherlands
 * [MeuApt](https://www.meuapt.com.br) | São Paulo, Brazil
 * [Mobly](http://www.mobly.com.br/) | São Paulo, Brazil
 * [Monetus](http://www.monetus.com.br) | Belo Horizonte, Brazil
+* [Méliuz](http://www.meliuz.com.br) | Belo Horizonte, Brazil
 * [Natue](http://www.natue.com.br) | São Paulo, Brazil
 * [OLX](http://www.olx.com.br) | Rio de Janeiro, Brazil; Lisbon, Portugal 
 * [Ow Interactive](http://www.owinteractive.com/vagas/) | Ribeirão Preto, Brazil
@@ -85,12 +85,12 @@ A curated list of companies using php in production
 * [Sympla](http://www.sympla.com.br) | Belo Horizonte, Brazil
 * [Sysvale](https://jobs.sysvale.com/) | Juazeiro - BA, Brazil
 * [Tequila Rapido](https://www.welcometothejungle.com/fr/companies/tequilarapido/jobs) | Nice, France
-* [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
 * [The Iconic](http://www.theiconic.com.au/opportunities/) | Sydney, Australia
+* [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
 * [Travanto](https://www.travanto.de/unternehmen/jobs) | Hamburg, Germany
 * [Trivago](http://company.trivago.com/jobs) | Düsseldorf, Germany
-* [Usabillla](https://jobs.usabilla.com/) | Amsterdam, The Netherlands
 * [Urbanara](https://careers.jobscore.com/careers/urbanara) | Berlin, Germany
+* [Usabillla](https://jobs.usabilla.com/) | Amsterdam, The Netherlands
 
 ## V - X
 * [Venda.la](https://vendala.com.br/) | Ribeirão Preto, Brazil
