@@ -5,8 +5,8 @@ use Symfony\Component\DomCrawler\Crawler;
 
 final class ReadmeCheckerTest extends TestCase
 {
-    public function testDuplicatedLinks(){
-
+    public function testDuplicatedLinks()
+    {
         $converter = new CommonMarkConverter();
         $readmeMarkdownFile = file_get_contents(__DIR__ .'/README.md');
         
@@ -23,6 +23,34 @@ final class ReadmeCheckerTest extends TestCase
             $links[] = $href;
          }
                         
+        $this->expectNotToPerformAssertions();
+    }
+
+    public function testAlphabeticalOrder() 
+    {
+        $converter = new CommonMarkConverter();
+        $readmeMarkdownFile = file_get_contents(__DIR__ .'/README.md');
+        
+        $readmeHtmlFile = $converter->convertToHtml($readmeMarkdownFile);
+
+        $crawler = new Crawler($readmeHtmlFile);
+        $previousCompany = "";
+        $company = "";
+        foreach ($crawler->filter('li') as $node) {
+            $previousCompany = strtolower((string)$company);
+            if (empty($previousCompany)) {
+                $company = strtolower((string)$node->textContent);
+                continue;
+            }
+            $company = strtolower((string)$node->textContent);
+            $previousIsGreaterThanActualCompany = strcmp($previousCompany, $company) > 0;
+            if ($previousIsGreaterThanActualCompany) {
+                $this->fail(
+                    sprintf("Company `%s` should not be before than `%s`", $previousCompany, $company)
+                );
+            }
+        }
+
         $this->expectNotToPerformAssertions();
     }
 }
