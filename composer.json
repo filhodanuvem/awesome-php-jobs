@@ -1,0 +1,20 @@
+{
+    "name": "filhodanuvem/awesome-php-jobs",
+    "description": "A curated list of companies using php in production",
+    "require-dev": {
+        "phpunit/phpunit": "^9.4",
+        "league/commonmark": "^1.5",
+        "symfony/dom-crawler": "^5.1",
+        "symfony/css-selector": "^5.1"
+    },
+    "authors": [
+        {
+            "name": "Claudson Oliveira",
+            "email": "claudsonweb@gmail.com"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "test": "phpunit --colors ReadmeCheckerTest.php"
+    }
+}
