@@ -1,0 +1,17 @@
+
+name: ci
+
+on: [ pull_request ]
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Install dependencies
+        run: composer install
+      - name: Run PHPUnit
+        run: composer test
