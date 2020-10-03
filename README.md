@@ -40,6 +40,7 @@ A curated list of companies using php in production
 * [Flixbus](https://www.flixbus.com/company/jobs) | Berlin, Germany  
 * [Fretebras](https://www.fretebras.com.br) | Catalão, Brazil  
 * [FS](http://fs.com.br) | São Paulo, Brazil
+* [Funcional Health Tech](https://www.funcionalcorp.com.br/) | Rio de Janeiro, Brazil
 * [GetYourGuide](https://careers.getyourguide.com/) | Berlin, Germany
 * [Helloprint](http://jobs.helloprint.com) | Rotterdam, The Netherlands
 
@@ -53,6 +54,7 @@ A curated list of companies using php in production
 * [Lesara](https://corporate.lesara.com/career) | Berlin, Germany
 * [Leroy Merlin](http://leroymerlin.com.br) | São Paulo, Brazil
 * [Linio](http://linio.applytojob.com/apply) | Mexico City, Mexico
+* [Lyseon Tech](https://lt.coop.br) | Rio de Janeiro, Brazil
 
 ## M - O
 * [MaxMilhas](http://www.maxmilhas.com.br) | Belo Horizonte, Brazil
