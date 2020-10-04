@@ -93,6 +93,7 @@ A curated list of companies using php in production
 * [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
 * [Travanto](https://www.travanto.de/unternehmen/jobs) | Hamburg, Germany
 * [Trivago](http://company.trivago.com/jobs) | Düsseldorf, Germany
+* [Umbu.tech](https://pede.ai/) Petrolina - PE, Brazil
 * [Urbanara](https://careers.jobscore.com/careers/urbanara) | Berlin, Germany
 * [Usabillla](https://jobs.usabilla.com/) | Amsterdam, The Netherlands
 
