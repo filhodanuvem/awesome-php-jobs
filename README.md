@@ -6,6 +6,7 @@ A curated list of companies using php in production
 ## A - C
 * [About you](https://corporate.aboutyou.de/de/jobs) | Hamburg, Germany
 * [Aiqfome](https://aiqfome.com) | Maringá, Brazil
+* [Alfama](http://grupoalfama.com.br/) | Aracaju, Brazil
 * [Altran](https://www.altran.com/pt/pt-pt) | Lisboa, Portugal
 * [Amaro](https://about.amaro.com/jobs) | São Paulo, Brazil
 * [Arizona](http://arizona.global) | São Paulo, Brazil
@@ -39,8 +40,9 @@ A curated list of companies using php in production
 * [Estadão](http://estadao.com.br) | São Paulo, Brazil
 * [Etsy](https://www.etsy.com/careers)| HQ in New York, additional offices in Europe, Asia, Oceania and North America
 * [Evino](http://jobs.kenoby.com/evino) | São Paulo, Brazil
-* [Flixbus](https://www.flixbus.com/company/jobs) | Berlin, Germany
-* [Fretebras](https://www.fretebras.com.br) | Catalão, Brazil
+* [Explicaê](https://www.explicae.com.br/) | Aracaju, Brazil
+* [Flixbus](https://www.flixbus.com/company/jobs) | Berlin, Germany  
+* [Fretebras](https://www.fretebras.com.br) | Catalão, Brazil  
 * [FS](http://fs.com.br) | São Paulo, Brazil
 * [Funcional Health Tech](https://www.funcionalcorp.com.br/) | Rio de Janeiro, Brazil
 
@@ -50,6 +52,7 @@ A curated list of companies using php in production
 * [Helloprint](http://jobs.helloprint.com) | Rotterdam, The Netherlands
 * [Home Refill](www.homerefill.com.br) | São Paulo, Brazil
 * [Hotel Urbano](www.hotelurbano.com) | Rio de Janeiro, Brazil
+* [Infodev](https://infodev.com.br/) | Aracaju, Brazil
 
 ## J - L
 * [LeaseWeb](https://www.leaseweb.com/career) | Amsterdam, The Netherlands
@@ -96,6 +99,7 @@ North America
 * [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
 * [Travanto](https://www.travanto.de/unternehmen/jobs) | Hamburg, Germany
 * [Trivago](http://company.trivago.com/jobs) | Düsseldorf, Germany
+* [Umbu.tech](https://pede.ai/) Petrolina - PE, Brazil
 * [Urbanara](https://careers.jobscore.com/careers/urbanara) | Berlin, Germany
 * [Usabillla](https://jobs.usabilla.com/) | Amsterdam, The Netherlands
 
