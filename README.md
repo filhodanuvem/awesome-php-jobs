@@ -1,5 +1,5 @@
 # Awesome PHP Jobs
-A curated list of companies using php in production 
+A curated list of companies using php in production
 
 ---
 
@@ -10,17 +10,19 @@ A curated list of companies using php in production
 * [Altran](https://www.altran.com/pt/pt-pt) | Lisboa, Portugal
 * [Amaro](https://about.amaro.com/jobs) | São Paulo, Brazil
 * [Arizona](http://arizona.global) | São Paulo, Brazil
+* [Arquivei](https://arquivei.com.br) | São Carlos, Brazil
 * [Automattic](https://automattic.com/work-with-us/) | Remote, everywhere
 * [Badoo](https://team.badoo.com/jobs/all-positions/) | São Paulo, Brazil
 * [BoaCompra](https://boacompra.com/) | Maringá, Brazil
 * [Bold](https://boldint.com/en) | Lisboa, Portugal
 * [Canva](https://about.canva.com/careers/) | Sydney, Australia
 * [CargoX](http://www.cargox.com.br) | São Paulo, Brazil
-* [Catho](http://www.catho.com.br) | São Paulo, Brazil 
+* [Catho](http://www.catho.com.br) | São Paulo, Brazil
 * [Check24](http://www.check24.de) | Leipzig, Germany
 * [Chron](https://www.chron.com/) | California, USA
 * [CI&T](https://www.ciandt.com/) | HQ in Campinas, additional offices in Brazil, USA, Canada, China, Japan and UK.
 * [CloudFlare](https://www.cloudflare.com/careers/) | San Francisco, CA
+* [Cobiro](https://cobiro.com) | Copenhagen, Denmark; Warsaw, Poland; Carlsbad, USA
 * [conta.MOBI](http://conta.mobi) | Belo Horizonte, Brazil
 * [Cool blue](https://www.careersatcoolblue.com/) | Rotterdam, The Netherlands
 * [Crediwire](https://crediwire.com) | Copenhagen, Denmark
@@ -67,7 +69,9 @@ A curated list of companies using php in production
 * [Monetus](http://www.monetus.com.br) | Belo Horizonte, Brazil
 * [Méliuz](http://www.meliuz.com.br) | Belo Horizonte, Brazil
 * [Natue](http://www.natue.com.br) | São Paulo, Brazil
-* [OLX](http://www.olx.com.br) | Rio de Janeiro, Brazil; Lisbon, Portugal 
+* [Nofaro](https://nofaro.com) | Porto Alegre, Brazil
+* [Nuvemshop](https://www.nuvemshop.com.br) | São Paulo, Brazil
+* [OLX](http://www.olx.com.br) | Rio de Janeiro, Brazil; Lisbon, Portugal
 * [Ow Interactive](http://www.owinteractive.com/vagas/) | Ribeirão Preto, Brazil
 
 ## P - R
@@ -81,11 +85,13 @@ A curated list of companies using php in production
 
 ## S - U
 * [Scribbr](https://scribbr.homerun.co/) | Amsterdam, The Netherlands
-* [Slack](https://slack.com/jobs) | San Francisco, CA 
+* [Slack](https://slack.com/jobs) | San Francisco, CA
 * [SmartConsulting](http://www.smartconsulting.pt/) | Lisboa, Portugal
 * [Solis](https://www.solis.com.br/) | Lajeado, Brazil
 * [SpeakAp](https://speakap.com/en/speakap_jobs/) | Amsterdam, The Netherlands
 * [Studydrive](https://www.studydrive.net/company/studydrive-gmbh) | Berlin, Germany
+* [SurveyMonkey](https://www.surveymonkey.com) | Amsterdam, The Netherlands; additional offices in Europe, Oceania and
+North America
 * [Sympla](http://www.sympla.com.br) | Belo Horizonte, Brazil
 * [Sysvale](https://jobs.sysvale.com/) | Juazeiro - BA, Brazil
 * [Tequila Rapido](https://www.welcometothejungle.com/fr/companies/tequilarapido/jobs) | Nice, France
@@ -100,8 +106,8 @@ A curated list of companies using php in production
 ## V - X
 * [Venda.la](https://vendala.com.br/) | Ribeirão Preto, Brazil
 * [Virtual Gym](https://virtuagym.com/software/en/jobs/) | Amsterdam, The Netherlands
-* [Vonq](https://www.vonq.com/) | Amsterdam/Rotterdam, The Netherlands; Düsseldorf, Germany 
-* [Wappa](https://br.linkedin.com/company/wappa-taxi/careers) | São Paulo, Brazil 
+* [Vonq](https://www.vonq.com/) | Amsterdam/Rotterdam, The Netherlands; Düsseldorf, Germany
+* [Wappa](https://br.linkedin.com/company/wappa-taxi/careers) | São Paulo, Brazil
 * [Werkspot](https://www.careersatwerkspot.com/) | Amsterdam The Netherlands
 
 ## Y - \#
