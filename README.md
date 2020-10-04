@@ -6,8 +6,8 @@ A curated list of companies using php in production
 ## A - C
 * [About you](https://corporate.aboutyou.de/de/jobs) | Hamburg, Germany
 * [Aiqfome](https://aiqfome.com) | Maringá, Brazil
-* [Altran](https://www.altran.com/pt/pt-pt) | Lisboa, Portugal
 * [Alfama](http://grupoalfama.com.br/) | Aracaju, Brazil
+* [Altran](https://www.altran.com/pt/pt-pt) | Lisboa, Portugal
 * [Amaro](https://about.amaro.com/jobs) | São Paulo, Brazil
 * [Arizona](http://arizona.global) | São Paulo, Brazil
 * [Automattic](https://automattic.com/work-with-us/) | Remote, everywhere
