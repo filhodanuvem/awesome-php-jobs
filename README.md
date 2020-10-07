@@ -100,8 +100,8 @@ North America
 * [Tequila Rapido](https://www.welcometothejungle.com/fr/companies/tequilarapido/jobs) | Nice, France
 * [The Iconic](http://www.theiconic.com.au/opportunities/) | Sydney, Australia
 * [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
-* [Travanto](https://www.travanto.de/unternehmen/jobs) | Hamburg, Germany
 * [Transoft](https://www.transoft.com.br/trabalhe-conosco/) | Brasília, Brazil
+* [Travanto](https://www.travanto.de/unternehmen/jobs) | Hamburg, Germany
 * [Trivago](http://company.trivago.com/jobs) | Düsseldorf, Germany
 * [Umbu.tech](https://pede.ai/) Petrolina - PE, Brazil
 * [Urbanara](https://careers.jobscore.com/careers/urbanara) | Berlin, Germany
