@@ -13,8 +13,8 @@ A curated list of companies using php in production
 * [Arquivei](https://arquivei.com.br) | São Carlos, Brazil
 * [Automattic](https://automattic.com/work-with-us/) | Remote, everywhere
 * [Badoo](https://team.badoo.com/jobs/all-positions/) | São Paulo, Brazil
-* [Basis](https://www.basis.com.br/trabalhe-conosco/) | Brasília, Brazil
 * [Baidu](https://www.baidu.com/) | Pequim, Chine
+* [Basis](https://www.basis.com.br/trabalhe-conosco/) | Brasília, Brazil
 * [BoaCompra](https://boacompra.com/) | Maringá, Brazil
 * [Bold](https://boldint.com/en) | Lisboa, Portugal
 * [BrScan](https://www.brscan.com.br/trabalhe-conosco/) | Brasília, Brazil
