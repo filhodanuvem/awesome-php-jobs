@@ -14,8 +14,10 @@ A curated list of companies using php in production
 * [Automattic](https://automattic.com/work-with-us/) | Remote, everywhere
 * [Badoo](https://team.badoo.com/jobs/all-positions/) | São Paulo, Brazil
 * [Baidu](https://www.baidu.com/) | Pequim, Chine
+* [Basis](https://www.basis.com.br/trabalhe-conosco/) | Brasília, Brazil
 * [BoaCompra](https://boacompra.com/) | Maringá, Brazil
 * [Bold](https://boldint.com/en) | Lisboa, Portugal
+* [BrScan](https://www.brscan.com.br/trabalhe-conosco/) | Brasília, Brazil
 * [Canva](https://about.canva.com/careers/) | Sydney, Australia
 * [CargoX](http://www.cargox.com.br) | São Paulo, Brazil
 * [Catho](http://www.catho.com.br) | São Paulo, Brazil
@@ -98,6 +100,7 @@ North America
 * [Tequila Rapido](https://www.welcometothejungle.com/fr/companies/tequilarapido/jobs) | Nice, France
 * [The Iconic](http://www.theiconic.com.au/opportunities/) | Sydney, Australia
 * [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
+* [Transoft](https://www.transoft.com.br/trabalhe-conosco/) | Brasília, Brazil
 * [Travanto](https://www.travanto.de/unternehmen/jobs) | Hamburg, Germany
 * [Trivago](http://company.trivago.com/jobs) | Düsseldorf, Germany
 * [Umbu.tech](https://pede.ai/) Petrolina - PE, Brazil
@@ -109,6 +112,7 @@ North America
 * [Virtual Gym](https://virtuagym.com/software/en/jobs/) | Amsterdam, The Netherlands
 * [Vonq](https://www.vonq.com/) | Amsterdam/Rotterdam, The Netherlands; Düsseldorf, Germany
 * [Wappa](https://br.linkedin.com/company/wappa-taxi/careers) | São Paulo, Brazil
+* [Websis](http://www.websis.com.br/) | Brasília, Brazil
 * [Werkspot](https://www.careersatwerkspot.com/) | Amsterdam The Netherlands
 
 ## Y - \#
