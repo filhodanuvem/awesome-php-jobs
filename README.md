@@ -44,6 +44,7 @@ A curated list of companies using php in production
 * [Etsy](https://www.etsy.com/careers)| HQ in New York, additional offices in Europe, Asia, Oceania and North America
 * [Evino](http://jobs.kenoby.com/evino) | São Paulo, Brazil
 * [Explicaê](https://www.explicae.com.br/) | Aracaju, Brazil
+* [Ezoom](https://www.ezoom.com.br/) | Caxias do Sul, Brazil
 * [Flixbus](https://www.flixbus.com/company/jobs) | Berlin, Germany  
 * [Fretebras](https://www.fretebras.com.br) | Catalão, Brazil  
 * [FS](http://fs.com.br) | São Paulo, Brazil
@@ -59,6 +60,7 @@ A curated list of companies using php in production
 
 ## J - L
 * [LeaseWeb](https://www.leaseweb.com/career) | Amsterdam, The Netherlands
+* [Lendflow](https://lendflow.io/) | Houston, EUA
 * [Leroy Merlin](http://leroymerlin.com.br) | São Paulo, Brazil
 * [Lesara](https://corporate.lesara.com/career) | Berlin, Germany
 * [Linio](http://linio.applytojob.com/apply) | Mexico City, Mexico
@@ -91,6 +93,7 @@ A curated list of companies using php in production
 * [Slack](https://slack.com/jobs) | San Francisco, CA
 * [SmartConsulting](http://www.smartconsulting.pt/) | Lisboa, Portugal
 * [Solis](https://www.solis.com.br/) | Lajeado, Brazil
+* [Somos GAD](https://somosgad.com/) | Buenos Aires, Argentina
 * [SpeakAp](https://speakap.com/en/speakap_jobs/) | Amsterdam, The Netherlands
 * [Studydrive](https://www.studydrive.net/company/studydrive-gmbh) | Berlin, Germany
 * [SurveyMonkey](https://www.surveymonkey.com) | Amsterdam, The Netherlands; additional offices in Europe, Oceania and
