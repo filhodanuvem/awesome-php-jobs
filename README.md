@@ -1,3 +1,5 @@
+![](./office.jpg)
+
 # Awesome PHP Jobs
 A curated list of companies using php in production
 
