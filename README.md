@@ -88,6 +88,7 @@ A curated list of companies using php in production
 * [PetiKo](http://petiko.com.br/) | São Carlos, Brazil
 * [PicPay](https://www.picpay.com) | Vitória, Brazil; São Paulo, Brazil
 * [Pipe Run](https://secure.collage.co/jobs/piperuncrm) | Porto Alegre, Brazil
+* [Portabilis](https://portabilis.com.br/) | Içara, Brazil; Remote
 * [PrimeIt](https://www.primeit.pt/) | Lisboa, Portugal
 * [Rakuten](http://global.rakuten.com/en/) | Bamberg, Germany and Tokyo, Japan
 
