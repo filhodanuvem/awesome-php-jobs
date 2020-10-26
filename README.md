@@ -9,6 +9,7 @@ A curated list of companies using php in production
 * [About you](https://corporate.aboutyou.de/de/jobs) | Hamburg, Germany
 * [AfterShip](https://www.aftership.com) | Tsuen Wan, Hong Kong
 * [Aiqfome](https://aiqfome.com) | Maringá, Brazil
+* [Aix](https://aix.com.br) | Belo Horizonte, Brazil
 * [Alfama](http://grupoalfama.com.br/) | Aracaju, Brazil
 * [Altran](https://www.altran.com/pt/pt-pt) | Lisboa, Portugal
 * [Amaro](https://about.amaro.com/jobs) | São Paulo, Brazil
