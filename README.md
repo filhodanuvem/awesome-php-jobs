@@ -7,11 +7,13 @@ A curated list of companies using php in production
 
 ## A - C
 * [About you](https://corporate.aboutyou.de/de/jobs) | Hamburg, Germany
+* [Achievers](https://www.achievers.com/) | Toronto, Canada
 * [AfterShip](https://www.aftership.com) | Tsuen Wan, Hong Kong
 * [Aiqfome](https://aiqfome.com) | Maringá, Brazil
 * [Aix](https://aix.com.br) | Belo Horizonte, Brazil
 * [Alfama](http://grupoalfama.com.br/) | Aracaju, Brazil
 * [Altran](https://www.altran.com/pt/pt-pt) | Lisboa, Portugal
+* [Alura](https://www.alura.com.br/) | São Paulo, Brazil
 * [Amaro](https://about.amaro.com/jobs) | São Paulo, Brazil
 * [Arizona](http://arizona.global) | São Paulo, Brazil
 * [Arquivei](https://arquivei.com.br) | São Carlos, Brazil
@@ -61,6 +63,7 @@ A curated list of companies using php in production
 * [Helloprint](http://jobs.helloprint.com) | Rotterdam, The Netherlands
 * [Home Refill](www.homerefill.com.br) | São Paulo, Brazil
 * [Hotel Urbano](www.hotelurbano.com) | Rio de Janeiro, Brazil
+* [i94](https://www.i94.co/) | Lisboa, Portugal
 * [Infodev](https://infodev.com.br/) | Aracaju, Brazil
 
 ## J - L
@@ -98,6 +101,7 @@ A curated list of companies using php in production
 * [Scribbr](https://scribbr.homerun.co/) | Amsterdam, The Netherlands
 * [Slack](https://slack.com/jobs) | San Francisco, CA
 * [SmartConsulting](http://www.smartconsulting.pt/) | Lisboa, Portugal
+* [SmileSaude](https://www.smilesaude.com.br/) | Maceio, Brazil
 * [Solis](https://www.solis.com.br/) | Lajeado, Brazil
 * [Somos GAD](https://somosgad.com/) | Buenos Aires, Argentina
 * [SpeakAp](https://speakap.com/en/speakap_jobs/) | Amsterdam, The Netherlands
