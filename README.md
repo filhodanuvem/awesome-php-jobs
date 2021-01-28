@@ -67,8 +67,8 @@ A curated list of companies using php in production
 - [Helloprint](http://jobs.helloprint.com) | Rotterdam, The Netherlands
 - [Home Refill](www.homerefill.com.br) | São Paulo, Brazil
 - [Hotel Urbano](www.hotelurbano.com) | Rio de Janeiro, Brazil
-- [Infodev](https://infodev.com.br/) | Aracaju, Brazil
 - [I94](https://www.i94.co/) | Lisbon, Portugal
+- [Infodev](https://infodev.com.br/) | Aracaju, Brazil
 
 ## J - L
 
