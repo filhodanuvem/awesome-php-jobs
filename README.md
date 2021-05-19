@@ -34,6 +34,7 @@ A curated list of companies using php in production
 * [CloudFlare](https://www.cloudflare.com/careers/) | San Francisco, CA
 * [Cobiro](https://cobiro.com) | Copenhagen, Denmark; Warsaw, Poland; Carlsbad, USA
 * [conta.MOBI](http://conta.mobi) | Belo Horizonte, Brazil
+* [Convenia](https://convenia-tech.gupy.io) | São Paulo, Brazil
 * [Cool blue](https://www.careersatcoolblue.com/) | Rotterdam, The Netherlands
 * [Crediwire](https://crediwire.com) | Copenhagen, Denmark
 
