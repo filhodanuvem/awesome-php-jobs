@@ -21,6 +21,7 @@ A curated list of companies using php in production
 * [Badoo](https://team.badoo.com/jobs/all-positions/) | São Paulo, Brazil
 * [Baidu](https://www.baidu.com/) | Pequim, Chine
 * [Basis](https://www.basis.com.br/trabalhe-conosco/) | Brasília, Brazil
+* [Bling](https://www.bling.com.br/) | Bento Gonçalves, Brazil
 * [Blockbit](https://www.blockbit.com/) | São Paulo, Brazil
 * [BoaCompra](https://boacompra.com/) | Maringá, Brazil
 * [Bold](https://boldint.com/en) | Lisboa, Portugal
@@ -115,6 +116,7 @@ North America
 * [Tequila Rapido](https://www.welcometothejungle.com/fr/companies/tequilarapido/jobs) | Nice, France
 * [The Iconic](http://www.theiconic.com.au/opportunities/) | Sydney, Australia
 * [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
+* [Tiny](https://tiny.com.br/) | Bento Gonçalves, Brazil
 * [Transoft](https://www.transoft.com.br/trabalhe-conosco/) | Brasília, Brazil
 * [Travanto](https://www.travanto.de/unternehmen/jobs) | Hamburg, Germany
 * [Trivago](http://company.trivago.com/jobs) | Düsseldorf, Germany
