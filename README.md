@@ -110,6 +110,8 @@ A curated list of companies using php in production
 * [SpeakAp](https://speakap.com/en/speakap_jobs/) | Amsterdam, The Netherlands
 * [Studydrive](https://www.studydrive.net/company/studydrive-gmbh) | Berlin, Germany
 * [SurveyMonkey](https://www.surveymonkey.com) | Amsterdam, The Netherlands; additional offices in Europe, Oceania and
+* [TeratoTech](https://www.teratotech.com/) | Bangi, Malaysia
+* [Slurp](https://getslurp.com/) | Bangi, Malaysia
 North America
 * [Sympla](http://www.sympla.com.br) | Belo Horizonte, Brazil
 * [Sysvale](https://jobs.sysvale.com/) | Juazeiro - BA, Brazil
