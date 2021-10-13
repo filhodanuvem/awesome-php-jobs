@@ -120,6 +120,7 @@ North America
 * [Transoft](https://www.transoft.com.br/trabalhe-conosco/) | Brasília, Brazil
 * [Travanto](https://www.travanto.de/unternehmen/jobs) | Hamburg, Germany
 * [Trivago](http://company.trivago.com/jobs) | Düsseldorf, Germany
+* [Tumblr](https://www.tumblr.com/) | New York, USA
 * [Umbu.tech](https://pede.ai/) Petrolina - PE, Brazil
 * [Urbanara](https://careers.jobscore.com/careers/urbanara) | Berlin, Germany
 * [Usabillla](https://jobs.usabilla.com/) | Amsterdam, The Netherlands
