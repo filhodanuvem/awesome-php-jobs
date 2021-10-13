@@ -104,6 +104,7 @@ A curated list of companies using php in production
 ## S - U
 * [Scribbr](https://scribbr.homerun.co/) | Amsterdam, The Netherlands
 * [Slack](https://slack.com/jobs) | San Francisco, CA
+* [Slurp](https://getslurp.com/) | Bangi, Malaysia
 * [SmartConsulting](http://www.smartconsulting.pt/) | Lisboa, Portugal
 * [SmileSaude](https://www.smilesaude.com.br/) | Maceio, Brazil
 * [Solis](https://www.solis.com.br/) | Lajeado, Brazil
@@ -115,6 +116,7 @@ North America
 * [Sympla](http://www.sympla.com.br) | Belo Horizonte, Brazil
 * [Sysvale](https://jobs.sysvale.com/) | Juazeiro - BA, Brazil
 * [Tequila Rapido](https://www.welcometothejungle.com/fr/companies/tequilarapido/jobs) | Nice, France
+* [TeratoTech](https://www.teratotech.com/) | Bangi, Malaysia
 * [The Iconic](http://www.theiconic.com.au/opportunities/) | Sydney, Australia
 * [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
 * [Tiny](https://tiny.com.br/) | Bento Gonçalves, Brazil
