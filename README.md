@@ -55,8 +55,8 @@ A curated list of companies using php in production
 * [Evino](http://jobs.kenoby.com/evino) | São Paulo, Brazil
 * [Explicaê](https://www.explicae.com.br/) | Aracaju, Brazil
 * [Ezoom](https://www.ezoom.com.br/) | Caxias do Sul, Brazil
-* [Flixbus](https://www.flixbus.com/company/jobs) | Berlin, Germany  
-* [Fretebras](https://www.fretebras.com.br) | Catalão, Brazil  
+* [Flixbus](https://www.flixbus.com/company/jobs) | Berlin, Germany
+* [Fretebras](https://www.fretebras.com.br) | Catalão, Brazil
 * [FS](http://fs.com.br) | São Paulo, Brazil
 * [Funcional Health Tech](https://www.funcionalcorp.com.br/) | Rio de Janeiro, Brazil
 
@@ -64,8 +64,8 @@ A curated list of companies using php in production
 * [GetYourGuide](https://careers.getyourguide.com/) | Berlin, Germany
 * [Global Fashion Group](http://global-fashion-group.com/) | Many places
 * [Helloprint](http://jobs.helloprint.com) | Rotterdam, The Netherlands
-* [Home Refill](www.homerefill.com.br) | São Paulo, Brazil
-* [Hotel Urbano](www.hotelurbano.com) | Rio de Janeiro, Brazil
+* [Home Refill](https://www.homerefill.com.br/) | São Paulo, Brazil
+* [Hotel Urbano](https://www.hurb.com/br/) | Rio de Janeiro, Brazil
 * [i94](https://www.i94.co/) | Lisboa, Portugal
 * [Infodev](https://infodev.com.br/) | Aracaju, Brazil
 
@@ -94,6 +94,7 @@ A curated list of companies using php in production
 ## P - R
 * [Pagarme](http://pagar.me) | São Paulo, Brazil
 * [Page Personnel](https://www.pagepersonnel.com.br/jobs/php) | Porto Alegre, Brazil
+* [Pedzap](https://www.pedzap.com.br/) | São Paulo, Brazil
 * [PetiKo](http://petiko.com.br/) | São Carlos, Brazil
 * [PicPay](https://www.picpay.com) | Vitória, Brazil; São Paulo, Brazil
 * [Pipe Run](https://secure.collage.co/jobs/piperuncrm) | Porto Alegre, Brazil
@@ -112,7 +113,7 @@ A curated list of companies using php in production
 * [SpeakAp](https://speakap.com/en/speakap_jobs/) | Amsterdam, The Netherlands
 * [Studydrive](https://www.studydrive.net/company/studydrive-gmbh) | Berlin, Germany
 * [SurveyMonkey](https://www.surveymonkey.com) | Amsterdam, The Netherlands; additional offices in Europe, Oceania and
-North America
+  North America
 * [Sympla](http://www.sympla.com.br) | Belo Horizonte, Brazil
 * [Sysvale](https://jobs.sysvale.com/) | Juazeiro - BA, Brazil
 * [Tequila Rapido](https://www.welcometothejungle.com/fr/companies/tequilarapido/jobs) | Nice, France
