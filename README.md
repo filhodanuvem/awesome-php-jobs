@@ -15,6 +15,7 @@ A curated list of companies using php in production
 * [Altran](https://www.altran.com/pt/pt-pt) | Lisboa, Portugal
 * [Alura](https://www.alura.com.br/) | São Paulo, Brazil
 * [Amaro](https://about.amaro.com/jobs) | São Paulo, Brazil
+* [Apple Inc.](https://Apple.com/) | California, USA
 * [Arizona](http://arizona.global) | São Paulo, Brazil
 * [Arquivei](https://arquivei.com.br) | São Carlos, Brazil
 * [Automattic](https://automattic.com/work-with-us/) | Remote, everywhere
@@ -55,6 +56,7 @@ A curated list of companies using php in production
 * [Evino](http://jobs.kenoby.com/evino) | São Paulo, Brazil
 * [Explicaê](https://www.explicae.com.br/) | Aracaju, Brazil
 * [Ezoom](https://www.ezoom.com.br/) | Caxias do Sul, Brazil
+* [Facebook Inc.](https://about.facebook.com/) | California, USA
 * [Flixbus](https://www.flixbus.com/company/jobs) | Berlin, Germany
 * [Fretebras](https://www.fretebras.com.br) | Catalão, Brazil
 * [FS](http://fs.com.br) | São Paulo, Brazil
@@ -118,6 +120,7 @@ A curated list of companies using php in production
 * [Sysvale](https://jobs.sysvale.com/) | Juazeiro - BA, Brazil
 * [Tequila Rapido](https://www.welcometothejungle.com/fr/companies/tequilarapido/jobs) | Nice, France
 * [TeratoTech](https://www.teratotech.com/) | Bangi, Malaysia
+* [The Home Deport](http://www.homedepot.com/) | Georgia, USA
 * [The Iconic](http://www.theiconic.com.au/opportunities/) | Sydney, Australia
 * [TicketSwap](https://ticketswap.homerun.co) | Amsterdam, The Netherlands
 * [Tiny](https://tiny.com.br/) | Bento Gonçalves, Brazil
@@ -131,6 +134,7 @@ A curated list of companies using php in production
 
 ## V - X
 * [Venda.la](https://vendala.com.br/) | Ribeirão Preto, Brazil
+* [Verizon](https://www.verizon.com/) | New Jersey, USA
 * [Virtual Gym](https://virtuagym.com/software/en/jobs/) | Amsterdam, The Netherlands
 * [Vonq](https://www.vonq.com/) | Amsterdam/Rotterdam, The Netherlands; Düsseldorf, Germany
 * [Wappa](https://br.linkedin.com/company/wappa-taxi/careers) | São Paulo, Brazil
