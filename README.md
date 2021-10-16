@@ -44,6 +44,7 @@ A curated list of companies using php in production
 * [Dafiti](https://www.dafiti.com.br) | São Paulo, Brazil
 * [DataDog](https://www.datadoghq.com/) | New York, USA; Paris, France; Dublin, Ireland; Remote
 * [DB1](https://www.db1.com.br/) | Maringá, Brazil
+* [Delivery Hero](https://www.deliveryhero.com) | Berlin, Alemanha
 * [DevMedia](https://www.devmedia.com.br/) | Rio de Janeiro, Brazil
 * [Docler Holding](https://doclerholding.recruitee.com/) |Luxembourg, Luxembourg
 * [E-goi](https://mkt.e-goi.com/) | Londrina, Brazil
@@ -81,6 +82,7 @@ A curated list of companies using php in production
 * [Lyseon Tech](https://lt.coop.br) | Rio de Janeiro, Brazil
 
 ## M - O
+* [MailChimp](https://mailchimp.com) | Geórgia, EUA
 * [MaxMilhas](http://www.maxmilhas.com.br) | Belo Horizonte, Brazil
 * [MessageBird](https://www.messagebird.com/en/careers) | Amsterdam, The Netherlands
 * [MeuApt](https://www.meuapt.com.br) | São Paulo, Brazil
