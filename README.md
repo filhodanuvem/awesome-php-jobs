@@ -81,6 +81,7 @@ A curated list of companies using php in production
 * [Lyseon Tech](https://lt.coop.br) | Rio de Janeiro, Brazil
 
 ## M - O
+* [MailChimp](https://mailchimp.com) | Geórgia, EUA
 * [MaxMilhas](http://www.maxmilhas.com.br) | Belo Horizonte, Brazil
 * [MessageBird](https://www.messagebird.com/en/careers) | Amsterdam, The Netherlands
 * [MeuApt](https://www.meuapt.com.br) | São Paulo, Brazil
