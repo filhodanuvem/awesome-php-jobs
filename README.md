@@ -50,6 +50,7 @@ A curated list of companies using php in production
 * [E-goi](https://mkt.e-goi.com/) | Londrina, Brazil
 * [Easy Taxi](http://easytaxi.com.br) | São Paulo, Brazil
 * [EBANX](http://ebanx.com) | Curitiba, Brazil
+* [Eckhardt & Eloy](https://eckhardtleather.com/) | Rio de Janeiro, Brazil
 * [Emesa](https://www.werkenbijemesa.nl/) |  Amsterdam, The Netherlands
 * [Endouble](http://endouble.com) | Amsterdam, Netherlands
 * [Estadão](http://estadao.com.br) | São Paulo, Brazil
