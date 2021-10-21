@@ -30,6 +30,7 @@ A curated list of companies using php in production
 * [Canva](https://about.canva.com/careers/) | Sydney, Australia
 * [CargoX](http://www.cargox.com.br) | São Paulo, Brazil
 * [Catho](http://www.catho.com.br) | São Paulo, Brazil
+* [Champier](https://champier.co.mz/) | Maputo, Mozambique
 * [Check24](http://www.check24.de) | Leipzig, Germany
 * [Chron](https://www.chron.com/) | California, USA
 * [CI&T](https://www.ciandt.com/) | HQ in Campinas, additional offices in Brazil, USA, Canada, China, Japan and UK.
