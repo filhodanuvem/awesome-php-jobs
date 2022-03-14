@@ -117,6 +117,7 @@ A curated list of companies using php in production
 * [Solis](https://www.solis.com.br/) | Lajeado, Brazil
 * [Somos GAD](https://somosgad.com/) | Buenos Aires, Argentina
 * [SpeakAp](https://speakap.com/en/speakap_jobs/) | Amsterdam, The Netherlands
+* [Spreaker](https://careers.spreaker.com/) | Full Remote, Europe based
 * [Studydrive](https://www.studydrive.net/company/studydrive-gmbh) | Berlin, Germany
 * [SurveyMonkey](https://www.surveymonkey.com) | Amsterdam, The Netherlands; additional offices in Europe, Oceania and
   North America
