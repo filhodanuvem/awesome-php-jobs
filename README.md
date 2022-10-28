@@ -40,6 +40,7 @@ A curated list of companies using php in production
 * [Convenia](https://convenia-tech.gupy.io) | São Paulo, Brazil
 * [Cool blue](https://www.careersatcoolblue.com/) | Rotterdam, The Netherlands
 * [Crediwire](https://crediwire.com) | Copenhagen, Denmark
+* [Croct](https://croct.com/) | São Paulo, Brazil
 
 ## D - F
 * [Dafiti](https://www.dafiti.com.br) | São Paulo, Brazil
