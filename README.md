@@ -141,6 +141,7 @@ A curated list of companies using php in production
 ## V - X
 * [Venda.la](https://vendala.com.br/) | Ribeirão Preto, Brazil
 * [Verizon](https://www.verizon.com/) | New Jersey, USA
+* [VExpenses](https://vexpenses.gupy.io/) | Ribeirão Preto, Brazil
 * [Virtual Gym](https://virtuagym.com/software/en/jobs/) | Amsterdam, The Netherlands
 * [Vonq](https://www.vonq.com/) | Amsterdam/Rotterdam, The Netherlands; Düsseldorf, Germany
 * [Wappa](https://br.linkedin.com/company/wappa-taxi/careers) | São Paulo, Brazil
