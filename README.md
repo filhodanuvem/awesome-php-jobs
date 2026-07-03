@@ -41,6 +41,7 @@ A curated list of companies using php in production
 * [Cool blue](https://www.careersatcoolblue.com/) | Rotterdam, The Netherlands
 * [Crediwire](https://crediwire.com) | Copenhagen, Denmark
 * [Croct](https://croct.com/) | São Paulo, Brazil
+* [Mautic](https://www.mautic.org) - Open-source marketing automation platform built with PHP and Symfony for campaigns, segmentation, and lead management.
 
 ## D - F
 * [Dafiti](https://www.dafiti.com.br) | São Paulo, Brazil
