@@ -150,4 +150,5 @@ A curated list of companies using php in production
 
 ## Y - \#
 * [Zalando](https://jobs.zalando.com) | Berlin, Germany
-* [Zizoo](https://www.zizoo.com/en/careers) | Berlin, Germany
+* [Zizoo](https://www.zizoo.com/en/careers) | Berlin, Germany  
+* [ZuzShortURL](https://github.com/JanePHPDev/ZuzShortURL) | Next-generation short link SaaS solution
